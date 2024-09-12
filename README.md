@@ -43,6 +43,6 @@ This project is a web-based application that integrates with Google Drive to all
 - Clone the repository and follow the setup instructions in the respective directories (backend/README.md and frontend/README.md).
 - Configure the environment variables in the .env file and set up your Google Cloud Project for OAuth.
 
-# Loom Video
+# Loom Video - Developing a Google Drive Integration Application
 
 https://www.loom.com/share/dac28f9924704196a2a63fd7b798cf52
